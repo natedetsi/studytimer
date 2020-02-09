@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/studytimer/static/css/main.a142f367.chunk.css",
+    "main.js": "/studytimer/static/js/main.6f48dd19.chunk.js",
+    "main.js.map": "/studytimer/static/js/main.6f48dd19.chunk.js.map",
+    "runtime~main.js": "/studytimer/static/js/runtime~main.8b9eb5b7.js",
+    "runtime~main.js.map": "/studytimer/static/js/runtime~main.8b9eb5b7.js.map",
+    "static/js/2.351e115f.chunk.js": "/studytimer/static/js/2.351e115f.chunk.js",
+    "static/js/2.351e115f.chunk.js.map": "/studytimer/static/js/2.351e115f.chunk.js.map",
+    "index.html": "/studytimer/index.html",
+    "precache-manifest.24a0316d2e853ecc8c426390aa191d6d.js": "/studytimer/precache-manifest.24a0316d2e853ecc8c426390aa191d6d.js",
+    "service-worker.js": "/studytimer/service-worker.js",
+    "static/css/main.a142f367.chunk.css.map": "/studytimer/static/css/main.a142f367.chunk.css.map"
+  }
+}
